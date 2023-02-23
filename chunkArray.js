@@ -1,5 +1,5 @@
 // Chunk an array.
-// chunk([4, 1, 2, 3, 1], 2) => [[4, 1], [2, 3], [1]]
+// chunk([4, 1, 2, 3, 1], 2) 🍴 [[4, 1], [2, 3], [1]]
 
 const chunk = (array, chunkSize) => {
   let arr = []
